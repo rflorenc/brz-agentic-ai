@@ -1,0 +1,5 @@
+---
+resources:
+  - brz-1-the-basics.yaml
+  - brz-1-vault.yaml
+  - brz-1-vault-secrets.yaml
